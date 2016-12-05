@@ -40,3 +40,4 @@ HEIGHT = 25
 dungeon = createDungeon()
 drawWalls(dungeon)
 drawDungeon(dungeon)
+    
